@@ -1,6 +1,6 @@
 {
   "name": "@shamilovtim/react-native-leveldb-async",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "async-level adapter for react-native-leveldb",
   "main": "lib/index.js",
   "module": "lib/index.js",
